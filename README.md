@@ -21,7 +21,7 @@
 - 【09-19】《APNG那些事》         
 - 【09-19】《简单的JS数据变化监测》         
 - 【09-26】《软键盘与fixed定位的相杀》         
-- 【09-26】《Chrome Extendsions》         
+- 【09-26】《Chrome Extensions》         
 - 【10-17】《小程序框架分析》        
 - 【10-31】《浅谈Virtual DOM》         
 - 【10-31】《CSS3 drop-shadow与box-shadow的区别》        
