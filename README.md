@@ -6,7 +6,7 @@
 - 【01-03】《snap-svg.js入门》       
 - 【01-10】《使用webpack开发馆区》    
 - 【01-10】《throttle&debounce》
-- 【01-16】《聊聊 SVG 基本形状转换那些事》
+- [【01-16】《聊聊 SVG 基本形状转换那些事》](/201701/SVGbaseshape.pdf)
 - 【01-16】《浅谈VUE数据绑定》  
 - 【02-20】《Matter.js 物理引擎》      
 - 【02-20】《使用Spine创建骨骼动画》
