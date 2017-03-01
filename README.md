@@ -34,7 +34,7 @@
 - 【11-29】《像素爱好者的玩具 - MagicaVoxel》         
 - 【11-29】《异步流程控制之Async.js》         
 - 【11-12】《八卦一下EMCAScript标准》         
-- 【11-12】《Android 浏览器下 line-height 垂直居中偏离问题探究》        
+- [【11-12】《Android 浏览器下 line-height 垂直居中偏离问题探究》](/201611/lineheight_hack.pdf)
 - 【12-19】《简解那些你可能比较少用的新属性》       
 - 【12-19】《SASS中使用内联SVG》         
 - 【12-28】《一个栗子实践vue2.0与1.0的区别》        
