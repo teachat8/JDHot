@@ -30,7 +30,7 @@
 - 【11-07】《自动化测试》
 - 【11-07】《如何在github找到优质项目》         
 - 【11-14】《async/await》        
-- 【11-14】《CSS 3D Panorama深度解密》        
+- [【11-14】《CSS 3D Panorama深度解密》](/201611/CSS 3D Panorama.pdf)        
 - 【11-29】《像素爱好者的玩具 - MagicaVoxel》         
 - 【11-29】《异步流程控制之Async.js》         
 - 【11-12】《八卦一下EMCAScript标准》         
