@@ -7,7 +7,7 @@
 - 【01-10】《使用webpack开发馆区》    
 - 【01-10】《throttle&debounce》
 - [【01-16】《聊聊 SVG 基本形状转换那些事》](/201701/SVGbaseshape.pdf)
-- 【01-16】《浅谈VUE数据绑定》  
+- [【01-16】《浅谈VUE数据绑定》](/201701/浅析vue数据绑定.pdf) 
 - 【02-20】《Matter.js 物理引擎》      
 - 【02-20】《使用Spine创建骨骼动画》
 - [【03-01】《Sticky Footer - 完美的绝对底部》](/201703/StickyFooter.pdf)
