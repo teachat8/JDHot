@@ -26,7 +26,7 @@
 - 【09-26】《Chrome Extensions》         
 - 【10-17】《小程序框架分析》        
 - 【10-31】《浅谈Virtual DOM》         
-- 【10-31】《CSS3 drop-shadow与box-shadow的区别》        
+- [【10-31】《CSS3 drop-shadow与box-shadow的区别》](/201610/css3 drop-shadow vs box-shadow.pdf)         
 - [【11-07】《深入了解font-weight》](/201611/learn_more_about_font-weight.pdf)      
 - 【11-07】《自动化测试》
 - 【11-07】《如何在github找到优质项目》         
@@ -38,5 +38,5 @@
 - [【11-12】《Android 浏览器下 line-height 垂直居中偏离问题探究》](/201611/lineheight_hack.pdf)
 - [【12-19】《简解那些你可能不常用的属性》](/201612/use_these_new_attr.pdf)
 - 【12-19】《SASS中使用内联SVG》         
-- 【12-28】《一个栗子实践vue2.0与1.0的区别》        
+- [【12-28】《一个栗子实践vue2.0与1.0的区别》](/201612/An example of the practice of vue2.0 differs from 1.0.pdf)       
 - 【12-28】《京东购物之微信小程序版诞生记》
