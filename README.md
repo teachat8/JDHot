@@ -8,7 +8,7 @@
 - 【01-10】《throttle&debounce》
 - [【01-16】《聊聊 SVG 基本形状转换那些事》](/201701/SVGbaseshape.pdf)
 - [【01-16】《浅谈VUE数据绑定》](/201701/浅析vue数据绑定.pdf) 
-- 【02-20】《Matter.js 物理引擎》      
+- [【02-20】《Matter.js 物理引擎》](/201702/Matter-js.pdf)      
 - 【02-20】《使用Spine创建骨骼动画》
 - [【03-01】《Sticky Footer - 完美的绝对底部》](/201703/StickyFooter.pdf)
 - [【03-01】《PWA - 2017年你不得不知道的一件事》](/201703/PWA.pdf)
@@ -20,7 +20,7 @@
 - 【09-05】《基础Alfred工作流》         
 - [【09-12】《直播前后端技术》](/201609/H5SopCast.pdf)       
 - 【09-12】《ES6 Module》     
-- 【09-19】《APNG那些事》         
+- [【09-19】《APNG那些事》](/201609/APNG.pdf)         
 - 【09-19】《简单的JS数据变化监测》         
 - [【09-26】《软键盘与fixed定位的相杀》](/201609/fixed_softkeyboard.pdf)         
 - 【09-26】《Chrome Extensions》         
@@ -32,7 +32,7 @@
 - 【11-07】《如何在github找到优质项目》         
 - 【11-14】《async/await》        
 - [【11-14】《CSS 3D Panorama深度解密》](/201611/CSS 3D Panorama.pdf)        
-- 【11-29】《像素爱好者的玩具 - MagicaVoxel》         
+- [【11-29】《像素爱好者的玩具 - MagicaVoxel》](/201611/MagicaVoxel.pdf)         
 - 【11-29】《异步流程控制之Async.js》         
 - 【11-12】《八卦一下EMCAScript标准》         
 - [【11-12】《Android 浏览器下 line-height 垂直居中偏离问题探究》](/201611/lineheight_hack.pdf)
