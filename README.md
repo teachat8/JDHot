@@ -3,7 +3,7 @@
 
 ### 2017          
 - 【01-03】《Equality of JS》         
-- 【01-03】《snap-svg.js入门》       
+- [【01-03】《snap-svg.js入门》](/201701/snap-svg.js入门.pdf)
 - 【01-10】《使用webpack开发馆区》    
 - 【01-10】《throttle&debounce》
 - [【01-16】《聊聊 SVG 基本形状转换那些事》](/201701/SVGbaseshape.pdf)
@@ -17,7 +17,7 @@
 
 ### 2016          
 - [【09-05】《VUE组件》](/201609/20160905_VueJS_and_Web_Components.pdf)
-- 【09-05】《基础Alfred工作流》         
+- [【09-05】《基础Alfred工作流》](/201609/Alfred_workflow.pdf)
 - [【09-12】《直播前后端技术》](/201609/H5SopCast.pdf)       
 - 【09-12】《ES6 Module》     
 - [【09-19】《APNG那些事》](/201609/APNG.pdf)         
@@ -29,7 +29,7 @@
 - [【10-31】《CSS3 drop-shadow与box-shadow的区别》](/201610/css3 drop-shadow vs box-shadow.pdf)         
 - [【11-07】《深入了解font-weight》](/201611/learn_more_about_font-weight.pdf)      
 - 【11-07】《自动化测试》
-- 【11-07】《如何在github找到优质项目》         
+- [【11-07】《如何在github找到优质项目》](/201611/how_to_find_awesome_project.pdf)
 - 【11-14】《async/await》        
 - [【11-14】《CSS 3D Panorama深度解密》](/201611/CSS 3D Panorama.pdf)        
 - [【11-29】《像素爱好者的玩具 - MagicaVoxel》](/201611/MagicaVoxel.pdf)         
