@@ -16,7 +16,7 @@
 -----------
 
 ### 2016          
-- 【09-05】《VUE组件》
+- [【09-05】《VUE组件》](/201609/20160905_VueJS_and_Web_Components.pdf)
 - 【09-05】《基础Alfred工作流》         
 - [【09-12】《直播前后端技术》](/201609/H5SopCast.pdf)       
 - 【09-12】《ES6 Module》     
@@ -33,10 +33,10 @@
 - 【11-14】《async/await》        
 - [【11-14】《CSS 3D Panorama深度解密》](/201611/CSS 3D Panorama.pdf)        
 - [【11-29】《像素爱好者的玩具 - MagicaVoxel》](/201611/MagicaVoxel.pdf)         
-- 【11-29】《异步流程控制之Async.js》         
+- [【11-29】《异步流程控制之Async.js》](/201611/20161129_An_Intro_Of_Aasync.js.pdf)
 - 【11-12】《八卦一下EMCAScript标准》         
 - [【11-12】《Android 浏览器下 line-height 垂直居中偏离问题探究》](/201611/lineheight_hack.pdf)
 - [【12-19】《简解那些你可能不常用的属性》](/201612/use_these_new_attr.pdf)
 - 【12-19】《SASS中使用内联SVG》         
 - [【12-28】《一个栗子实践vue2.0与1.0的区别》](/201612/An example of the practice of vue2.0 differs from 1.0.pdf)       
-- 【12-28】《京东购物之微信小程序版诞生记》
+- [【12-28】《京东购物之微信小程序版诞生记》](/201612/20161228_The_Birth_Of_JD_wxapp.pdf)
