@@ -2,7 +2,7 @@
 该仓库将存放[凹凸实验室](http:aotu.io)例会专业分享的课件，每周定期更新，欢迎 Star。
 
 ### 2017          
-- 【01-03】《Equality of JS》         
+- [【01-03】《Equality of JS》](/201701/Equality_of_JS.pdf)
 - [【01-03】《snap-svg.js入门》](/201701/snap-svg.js入门.pdf)
 - [【01-10】《使用webpack开发馆区》](/201701/work_with_webpack.pdf)
 - 【01-10】《throttle&debounce》
@@ -28,7 +28,7 @@
 - 【10-31】《浅谈Virtual DOM》         
 - [【10-31】《CSS3 drop-shadow与box-shadow的区别》](/201610/css3 drop-shadow vs box-shadow.pdf)         
 - [【11-07】《深入了解font-weight》](/201611/learn_more_about_font-weight.pdf)      
-- 【11-07】《自动化测试》
+- [【11-07】《自动化测试》](/201611/test.pdf)
 - [【11-07】《如何在github找到优质项目》](/201611/how_to_find_awesome_project.pdf)
 - [【11-14】《async/await》](/201611/async_await.pdf)
 - [【11-14】《CSS 3D Panorama深度解密》](/201611/CSS 3D Panorama.pdf)        
