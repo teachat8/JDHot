@@ -9,7 +9,7 @@
 - [【01-16】《聊聊 SVG 基本形状转换那些事》](/201701/SVGbaseshape.pdf)
 - [【01-16】《浅谈VUE数据绑定》](/201701/浅析vue数据绑定.pdf) 
 - [【02-20】《Matter.js 物理引擎》](/201702/Matter-js.pdf)      
-- 【02-20】《使用Spine创建骨骼动画》
+- [【02-20】《使用Spine创建骨骼动画》](/201702/skeleton_animation.pdf)
 - [【03-01】《Sticky Footer - 完美的绝对底部》](/201703/StickyFooter.pdf)
 - [【03-01】《PWA - 2017年你不得不知道的一件事》](/201703/PWA.pdf)
 
@@ -25,7 +25,7 @@
 - [【09-26】《软键盘与fixed定位的相杀》](/201609/fixed_softkeyboard.pdf)         
 - 【09-26】《Chrome Extensions》         
 - 【10-17】《小程序框架分析》        
-- 【10-31】《浅谈Virtual DOM》         
+- [【10-31】《浅谈Virtual DOM》](/201610/virtual_dom.pdf)       
 - [【10-31】《CSS3 drop-shadow与box-shadow的区别》](/201610/css3 drop-shadow vs box-shadow.pdf)         
 - [【11-07】《深入了解font-weight》](/201611/learn_more_about_font-weight.pdf)      
 - [【11-07】《自动化测试》](/201611/test.pdf)
