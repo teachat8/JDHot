@@ -30,7 +30,7 @@
 - [【11-07】《深入了解font-weight》](/201611/learn_more_about_font-weight.pdf)      
 - 【11-07】《自动化测试》
 - [【11-07】《如何在github找到优质项目》](/201611/how_to_find_awesome_project.pdf)
-- [【11-14】《async/await》](/201611/async\/await.pdf)
+- [【11-14】《async/await》](/201611/async_await.pdf)
 - [【11-14】《CSS 3D Panorama深度解密》](/201611/CSS 3D Panorama.pdf)        
 - [【11-29】《像素爱好者的玩具 - MagicaVoxel》](/201611/MagicaVoxel.pdf)         
 - [【11-29】《异步流程控制之Async.js》](/201611/20161129_An_Intro_Of_Aasync.js.pdf)
