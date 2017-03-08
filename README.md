@@ -20,7 +20,7 @@
 ### 2016          
 - [【09-05】《VUE组件》](/201609/20160905_VueJS_and_Web_Components.pdf)
 - [【09-05】《基础Alfred工作流》](/201609/Alfred_workflow.pdf)
-- [【09-12】《直播前后端技术》](/201609/H5SopCast.pdf)       
+- [【09-12】《H5 直播带你起航》](/201609/H5SopCast.pdf)       
 - 【09-12】《ES6 Module》     
 - [【09-19】《APNG那些事》](/201609/APNG.pdf)         
 - 【09-19】《简单的JS数据变化监测》         
