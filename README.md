@@ -25,7 +25,7 @@
 - [【09-19】《APNG那些事》](/201609/APNG.pdf)         
 - 【09-19】《简单的JS数据变化监测》         
 - [【09-26】《软键盘与fixed定位的相杀》](/201609/fixed_softkeyboard.pdf)         
-- 【09-26】《Chrome Extensions》         
+- [【09-26】《Chrome Extensions》](/201609/extension-of-chrome.pdf)       
 - 【10-17】《小程序框架分析》        
 - [【10-31】《浅谈Virtual DOM》](/201610/virtual_dom.pdf)       
 - [【10-31】《CSS3 drop-shadow与box-shadow的区别》](/201610/css3 drop-shadow vs box-shadow.pdf)         
@@ -39,6 +39,6 @@
 - 【11-12】《八卦一下EMCAScript标准》         
 - [【11-12】《Android 浏览器下 line-height 垂直居中偏离问题探究》](/201611/lineheight_hack.pdf)
 - [【12-19】《简解那些你可能不常用的属性》](/201612/use_these_new_attr.pdf)
-- 【12-19】《SASS中使用内联SVG》         
+- [【12-19】《SASS中使用内联SVG》](/201612/sass-svg.pdf)        
 - [【12-28】《一个栗子实践vue2.0与1.0的区别》](/201612/An example of the practice of vue2.0 differs from 1.0.pdf)       
 - [【12-28】《京东购物之微信小程序版诞生记》](/201612/20161228_The_Birth_Of_JD_wxapp.pdf)
