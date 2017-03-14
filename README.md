@@ -5,7 +5,7 @@
 - [【01-03】《Equality of JS》](/201701/Equality_of_JS.pdf)
 - [【01-03】《snap-svg.js入门》](/201701/snap-svg.js入门.pdf)
 - [【01-10】《使用webpack开发馆区》](/201701/work_with_webpack.pdf)
-- 【01-10】《throttle&debounce》
+- [【01-10】《throttle&debounce》](/201701/throttle&debounce.pdf)
 - [【01-16】《聊聊 SVG 基本形状转换那些事》](/201701/SVGbaseshape.pdf)
 - [【01-16】《浅谈VUE数据绑定》](/201701/浅析vue数据绑定.pdf) 
 - [【02-20】《Matter.js 物理引擎》](/201702/Matter-js.pdf)      
