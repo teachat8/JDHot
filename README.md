@@ -32,7 +32,7 @@
 - 【09-19】《简单的JS数据变化监测》         
 - [【09-26】《软键盘与fixed定位的相杀》](/201609/fixed_softkeyboard.pdf)         
 - [【09-26】《Chrome Extensions》](/201609/extension-of-chrome.pdf)       
-- 【10-17】《小程序框架分析》        
+- [【10-17】《小程序框架分析》](/201610/wechatApp.pdf)        
 - [【10-31】《浅谈Virtual DOM》](/201610/virtual_dom.pdf)       
 - [【10-31】《CSS3 drop-shadow与box-shadow的区别》](/201610/css3_drop-shadow_vs_box-shadow.pdf)         
 - [【11-07】《深入了解font-weight》](/201611/learn_more_about_font-weight.pdf)      
@@ -42,7 +42,7 @@
 - [【11-14】《CSS 3D Panorama深度解密》](/201611/CSS_3D_Panorama.pdf)        
 - [【11-29】《像素爱好者的玩具 - MagicaVoxel》](/201611/MagicaVoxel.pdf)         
 - [【11-29】《异步流程控制之Async.js》](/201611/20161129_An_Intro_Of_Aasync.js.pdf)
-- 【11-12】《八卦一下EMCAScript标准》         
+- [【11-12】《八卦一下EMCAScript标准》](/201611/ECMA.pdf)         
 - [【11-12】《Android 浏览器下 line-height 垂直居中偏离问题探究》](/201611/lineheight_hack.pdf)
 - [【12-19】《简解那些你可能不常用的属性》](/201612/use_these_new_attr.pdf)
 - [【12-19】《SASS中使用内联SVG》](/201612/sass-svg.pdf)        
