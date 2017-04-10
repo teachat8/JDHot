@@ -31,7 +31,7 @@
 - [【09-12】《H5 直播带你起航》](/201609/H5SopCast.pdf)       
 - [【09-12】《ES6 Module》](/201609/ES6-Module.pdf)      
 - [【09-19】《APNG那些事》](/201609/APNG.pdf)         
-- 【09-19】《简单的JS数据变化监测》         
+- [【09-19】《简单的JS数据变化监测》](/201609/2016-09-JS-Observation.pdf)
 - [【09-26】《软键盘与fixed定位的相杀》](/201609/fixed_softkeyboard.pdf)         
 - [【09-26】《Chrome Extensions》](/201609/extension-of-chrome.pdf)       
 - [【10-17】《小程序框架分析》](/201610/wechatApp.pdf)        
