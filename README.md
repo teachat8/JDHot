@@ -21,6 +21,7 @@
 - [【03-27】《使用BEM 来规范CSS 的命名》](/201703/20170327_Using_BEM.pdf)
 - [【03-27】《React学习笔记（一）》](/201703/React-study-notes.pdf)
 - [【04-10】《持续集成Travis CI》](/201704/TravisCI.pdf)
+- [【04-10】《React学习笔记（二）》](/201704/React-study-notes2.pdf)
 
 -----------
 
