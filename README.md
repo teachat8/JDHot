@@ -23,6 +23,7 @@
 - [【04-10】《持续集成Travis CI》](/201704/TravisCI.pdf)
 - [【04-10】《React学习笔记（二）》](/201704/React-study-notes2.pdf)
 - [【04-25】《基于 VoiceOver 聊聊 Web 无障碍访问》](/201704/VoiceOver-ARIA.pdf)
+- [【04-25】《h5躲避游戏开发》](/201704/h5game.pdf)
 
 -----------
 
