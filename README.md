@@ -28,7 +28,7 @@
 - [【05-02】《我有故事，你有算法么》](/201705/story.pdf)
 - [【05-09】《CSS变量》](/201705/CSS_Variables.pdf)
 - [【05-09】《p2.js》](/201705/p2js.pdf)
-
+- [【05-15】《Build perfect development environment》](/201705/Build_perfect_development_environment.pdf)
 -----------
 
 ### 2016
