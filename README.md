@@ -38,7 +38,7 @@
 - [【06-26】《Grid 网格布局入门指南》](/201706/grid-layout.pdf)
 - [【06-26】《记一次病毒清理》](/201706/anti-virus.pdf)
 - [【07-04】《初识PIXI》](/201707/first_meet_PIXI.pdf)
-- [【07-04】《初识PIXI》](/201707/SketchTutorialForWebDevelopers.pdf)
+- [【07-04】《对前端而言，如何快速上手Sketch》](/201707/SketchTutorialForWebDevelopers.pdf)
 
 -----------
 
