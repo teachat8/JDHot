@@ -40,6 +40,8 @@
 - [【07-04】《初识PIXI》](/201707/first_meet_PIXI.pdf)
 - [【07-04】《对前端而言，如何快速上手Sketch》](/201707/SketchTutorialForWebDevelopers.pdf)
 - [【07-10】《PWA 缓存之 Cache API 及工具介绍》](/201707/PWA 缓存之 Cache API 及工具介绍.pdf)
+- [【07-10】《Web Audio API 教练我，想做音乐》](/201707/Web Audio API 教练我，想做音乐.pdf)
+
 -----------
 
 ### 2016
