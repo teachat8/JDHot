@@ -42,6 +42,7 @@
 - [【07-10】《PWA 缓存之 Cache API 及工具介绍》](/201707/PWA_Cache_API_AND_TOOLS.pdf)
 - [【07-10】《Web Audio API 教练我，想做音乐》](/201707/WebAudioAPI教练我想做音乐.pdf)
 - [【07-18】《使用whistle管理网络请求》](/201707/使用whistle管理网络请求.pdf)
+- [【07-18】《dotfiles》](/201707/dotfiles.pdf)
 
 -----------
 
