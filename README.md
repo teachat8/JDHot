@@ -43,6 +43,7 @@
 - [【07-10】《Web Audio API 教练我，想做音乐》](/201707/WebAudioAPI教练我想做音乐.pdf)
 - [【07-18】《使用whistle管理网络请求》](/201707/使用whistle管理网络请求.pdf)
 - [【07-18】《dotfiles》](/201707/dotfiles.pdf)
+- [【07-26】《webpack打包原理》](/201707/how-do-webpack-bundle-work.pdf)
 
 -----------
 
