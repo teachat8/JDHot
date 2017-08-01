@@ -48,6 +48,7 @@
 - [【07-18】《dotfiles》](/201707/dotfiles.pdf)
 - [【07-26】《webpack打包原理》](/201707/how-do-webpack-bundle-work.pdf)
 - [【07-26】《RxJS入门介绍》](/201707/RxJS入门介绍.pdf)
+- [【08-01】《服务器端渲染(SSR)》](/201708/服务器端渲染(SSR).pdf)
 
 -----------
 
