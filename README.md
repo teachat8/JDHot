@@ -28,7 +28,6 @@
 - [【04-25】《h5躲避游戏开发》](/201704/h5game.pdf)
 - [【05-02】《Flex 布局应用场景》](/201705/flex.pdf)
 - [【05-02】《我有故事，你有算法么》](/201705/story.pdf)
-- [【05-02】《canvas 图像旋转与翻转》](/201705/canvas 图像旋转与翻转.pdf)
 - [【05-09】《CSS变量》](/201705/CSS_Variables.pdf)
 - [【05-09】《p2.js》](/201705/p2js.pdf)
 - [【05-15】《Build perfect development environment》](/201705/Build_perfect_development_environment.pdf)
