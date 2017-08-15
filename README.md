@@ -31,7 +31,7 @@
 - [【05-02】《我有故事，你有算法么》](/201705/story.pdf)
 - [【05-02】《简易mvc体验》](/201705/easymvc.pdf)
 - [【05-08】《canvas图像旋转与翻转》](/201705/canvas图像旋转与翻转.pdf)
-- [【05-02】《Joi入门》](/201705/joi.pdf)
+- [【05-08】《Joi入门》](/201705/joi.pdf)
 - [【05-09】《CSS变量》](/201705/CSS_Variables.pdf)
 - [【05-09】《p2.js》](/201705/p2js.pdf)
 - [【05-15】《Build perfect development environment》](/201705/Build_perfect_development_environment.pdf)
