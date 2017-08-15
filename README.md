@@ -28,7 +28,7 @@
 - [【04-10】《持续集成Travis CI》](/201704/TravisCI.pdf)
 - [【04-10】《React学习笔记（二）》](/201704/React-study-notes2.pdf)
 - [【04-10】《CSS-Masking》](/201704/CSS-Masking.pdf)
-- [【04-10】《Js的Event Loop、Tasks和Microtasks》](/201704/Js的Event Loop、Tasks和Microtasks.pdf)
+- [【04-10】《Js的Tasks和Microtasks》](/201704/Js的Tasks和Microtasks.pdf)
 - [【04-17】《及时记录》](/201704/及时记录.pdf)
 - [【04-17】《ES6（一）》](/201704/ES6（一）.pdf)
 - [【04-17】《ES6（二）》](/201704/ES6（二）.pdf)
