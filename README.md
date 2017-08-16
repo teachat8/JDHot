@@ -16,6 +16,7 @@
 - [【03-07】《关于视口单位，能带来些什么》](/201703/viewport_units.pdf)
 - [【03-07】《mask(mask-border)》](/201703/mask（mask-border）.pdf)
 - [【03-13】《再聊一下git》](/201703/再聊一下git.pdf)
+- [【03-13】《SVG Sprite在频道页中的实践》](/201703/SVG_Sprite在频道页中的实践.pdf)
 - [【03-14】《vue2.0-render》](/201703/vue2.0-render.pdf)
 - [【03-14】《了解Fetch API》](/201703/Fetch-API.pdf)
 - [【03-20】《node stream》](/201703/node_stream.pdf)
@@ -45,6 +46,7 @@
 - [【05-09】《p2.js》](/201705/p2js.pdf)
 - [【05-15】《Build perfect development environment》](/201705/Build_perfect_development_environment.pdf)
 - [【05-17】《前端同学会-Vue探索与实践》](/201705/前端同学会-Vue探索与实践.pdf)
+- [【05-27】《2017吃货节<食在会玩>项目总结》](/201705/2017吃货节《食在会玩》项目总结.pdf)
 - [【06-05】《520视频项目总结》](/201706/520视频项目总结.pdf)
 - [【06-05】《design&code》](/201706/design&code.pdf)
 - [【06-05】《ES6-Proxy》](/201706/ES6-Proxy.pdf)
@@ -82,8 +84,10 @@
 ----------
 
 ### 2016
+- [【02-29】《虹膜消除转场》](/201602/虹膜消除转场.pdf)
 - [【06-06】《神奇的ShadowDOM》](/201606/神奇的ShadowDOM.pdf)
 - [【08-08】《SeaJS从入门到原理》](/201608/SeaJS从入门到原理.pdf)
+- [【08-29】《CSS 3D》](/201608/CSS_3D.pdf)
 - [【09-05】《VUE组件》](/201609/20160905_VueJS_and_Web_Components.pdf)
 - [【09-05】《基础Alfred工作流》](/201609/Alfred_workflow.pdf)
 - [【09-12】《H5 直播带你起航》](/201609/H5SopCast.pdf)
@@ -113,3 +117,6 @@
 - [【12-26】《LeanCloud数据存储开发》](/201612/LeanCloud数据存储开发.pdf)
 - [【12-28】《一个栗子实践vue2.0与1.0的区别》](/201612/An_example_of_the_practice_of_vue2.0_differs_from_1.0.pdf)
 - [【12-28】《京东购物之微信小程序版诞生记》](/201612/20161228_The_Birth_Of_JD_wxapp.pdf)
+
+### 2015
+- [【11-16】《聊聊动画构思》](/201511/聊聊动画构思.pdf)
