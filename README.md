@@ -79,6 +79,7 @@
 - [【08-14】《前端UI测试》](/201708/前端UI测试.pdf)
 - [【08-14】《font-display 字体渲染属性》](/201708/font-display.pdf)
 - [【08-14】《Tail Call Optimization》](/201708/TCO.pdf)
+- [【08-21】《T雪碧图逐帧动画抖动解决方案》](/201708/fix-sprite-anim.pdf)
 
 
 ----------
