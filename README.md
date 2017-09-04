@@ -81,6 +81,7 @@
 - [【08-14】《Tail Call Optimization》](/201708/TCO.pdf)
 - [【08-21】《雪碧图逐帧动画抖动解决方案》](/201708/fix-sprite-anim.pdf)
 - [【09-04】《Crontab 快速上车》](/201709/crontab-quick-start.pdf)
+- [【09-04】《探讨H5游戏中的横屏处理》](/201709/landscape_in_h5_game.pdf)
 
 ----------
 
