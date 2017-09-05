@@ -83,6 +83,7 @@
 - [【09-04】《Crontab 快速上车》](/201709/crontab-quick-start.pdf)
 - [【09-04】《探讨H5游戏中的横屏处理（上）》](/201709/landscape_in_h5_game.pdf)
 - [【09-04】《聊聊滑动删除的交互与实现》](/201709/swipe_to_delete.pdf)
+- [【09-04】《keynote使用技巧与动效》](/201709/keynote使用技巧与动效.pdf)
 
 ----------
 
