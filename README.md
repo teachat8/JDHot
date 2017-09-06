@@ -46,7 +46,7 @@
 - [【05-09】《p2.js》](/201705/p2js.pdf)
 - [【05-15】《Build perfect development environment》](/201705/Build_perfect_development_environment.pdf)
 - [【05-17】《前端同学会-Vue探索与实践》](/201705/前端同学会-Vue探索与实践.pdf)
-- [【05-27】《2017吃货节<食在会玩>项目总结》](/201705/201705/food_analyze_20170816.pdf)
+- [【05-27】《2017吃货节<食在会玩>项目总结》](/201705/food_analyze_20170816.pdf)
 - [【06-05】《520视频项目总结》](/201706/520视频项目总结.pdf)
 - [【06-05】《design&code》](/201706/design&code.pdf)
 - [【06-05】《ES6-Proxy》](/201706/ES6-Proxy.pdf)
