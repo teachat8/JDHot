@@ -96,6 +96,7 @@
 - [【10-16】《视频项目总结（补充）》](/201710/视频项目总结（补充）.pdf)
 - [【10-23】《iPhoneX 适配方案预研》](/201710/iPhoneX.pdf)
 - [【10-23】《fast-json-stringify》](/201710/fast_json_stringify.pdf)
+- [【11-01】《javascript 识别颜色的相似度》](/201711/javascript_compare_colors.pdf)
 ----------
 
 ### 2016
