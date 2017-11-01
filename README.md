@@ -97,6 +97,8 @@
 - [【10-23】《iPhoneX 适配方案预研》](/201710/iPhoneX.pdf)
 - [【10-23】《fast-json-stringify》](/201710/fast_json_stringify.pdf)
 - [【11-01】《javascript 识别颜色的相似度》](/201711/javascript_compare_colors.pdf)
+- [【11-01】《了解Service Worker》](/201711/FastKnowServiceWorker.pdf)
+
 ----------
 
 ### 2016
@@ -133,6 +135,7 @@
 - [【12-26】《LeanCloud数据存储开发》](/201612/LeanCloud数据存储开发.pdf)
 - [【12-28】《一个栗子实践vue2.0与1.0的区别》](/201612/An_example_of_the_practice_of_vue2.0_differs_from_1.0.pdf)
 - [【12-28】《京东购物之微信小程序版诞生记》](/201612/20161228_The_Birth_Of_JD_wxapp.pdf)
+
 
 ### 2015
 - [【11-16】《聊聊动画构思》](/201511/聊聊动画构思.pdf)
