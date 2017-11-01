@@ -98,6 +98,7 @@
 - [【10-23】《fast-json-stringify》](/201710/fast_json_stringify.pdf)
 - [【11-01】《javascript 识别颜色的相似度》](/201711/javascript_compare_colors.pdf)
 - [【11-01】《了解Service Worker》](/201711/FastKnowServiceWorker.pdf)
+- [【11-01】《探讨H5游戏中的横屏处理（下）》](201711/探讨H5游戏的横屏处理(下）.pdf)
 
 ----------
 
