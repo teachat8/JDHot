@@ -99,6 +99,7 @@
 - [【11-01】《javascript 识别颜色的相似度》](/201711/javascript_compare_colors.pdf)
 - [【11-01】《了解Service Worker》](/201711/FastKnowServiceWorker.pdf)
 - [【11-01】《探讨H5游戏中的横屏处理（下）》](201711/landscape_in_h5_game2.pdf)
+- [【11-06】《打造撒币游戏》](201711/coindozer.pdf)
 
 ----------
 
