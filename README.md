@@ -105,6 +105,7 @@
 - [【11-20】《正则表达式回溯》](201711/正则表达式-回溯%2011.20.pdf)
 - [【11-21】《前端预加载》](201711/front_preload.pdf)
 - [【11-28】《开始你的第一个npm》](201711/开始你的第一个npm.pdf)
+- [【11-28】IntersectionObserver.pdf ](201711/IntersectionObserver.pdf)
 - [【11-28】《【图解】Redux 工作原理》](201711/【图解】Redux工作原理.pdf)
 - [【12-05】《Notification API 桌面通知》](201711/Notification_API.pdf)
 ----------
