@@ -101,6 +101,7 @@
 - [【11-01】《探讨H5游戏中的横屏处理（下）》](201711/landscape_in_h5_game2.pdf)
 - [【11-06】《打造撒币游戏》](201711/coindozer.pdf)
 - [【11-13】《HSTS介绍》](201711/HSTS介绍.pdf)
+- [【11-13】《Promise Performance》](201711/promise_performance.pdf)
 - [【11-20】《浏览器缓存指南》](201711/cache.pdf)
 - [【11-20】《正则表达式回溯》](201711/正则表达式-回溯%2011.20.pdf)
 - [【11-21】《前端预加载》](201711/front_preload.pdf)
