@@ -1,6 +1,9 @@
 # JDhot
 该仓库将存放[凹凸实验室](http:aotu.io)例会专业分享的课件，每周定期更新，欢迎 Star。
 
+### 2018
+- [【01-03】《Glitch Effect》](/201801/glitch-effect.pdf)
+
 ### 2017
 - [【01-03】《Equality of JS》](/201701/Equality_of_JS.pdf)
 - [【01-03】《snap-svg.js入门》](/201701/snap-svg.js入门.pdf)
