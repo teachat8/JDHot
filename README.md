@@ -6,6 +6,7 @@
 - [【01-03】《JavaScriptCore入门》](/201801/JavaSriptCore%E5%85%A5%E9%97%A8.pdf)
 - [【01-16】《预加载Preconnect、prerender、prefetch》](/201801/预加载Preconnect、prerender、prefetch.pdf)
 - [【01-16】《谈谈WebSocket那些事》](/201801/谈谈WebSocket那些事.pdf)
+- [【01-16】《读PixiJS-core源码》](/201801/Read-PixiJS-core-code.pdf)
 
 ### 2017
 - [【01-03】《Equality of JS》](/201701/Equality_of_JS.pdf)
