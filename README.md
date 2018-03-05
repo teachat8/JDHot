@@ -7,6 +7,7 @@
 - [【01-16】《预加载Preconnect、prerender、prefetch》](/201801/预加载Preconnect、prerender、prefetch.pdf)
 - [【01-16】《谈谈WebSocket那些事》](/201801/谈谈WebSocket那些事.pdf)
 - [【01-16】《读PixiJS-core源码》](/201801/Read-PixiJS-core-code.pdf)
+- [【03-05】《Puppeteer》](/201803/Puppeteer.pdf)
 
 ### 2017
 - [【01-03】《Equality of JS》](/201701/Equality_of_JS.pdf)
