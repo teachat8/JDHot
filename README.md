@@ -11,6 +11,8 @@
 - [【03-12】《prettier-代码格式美化神器》](/201803/prettier-%E4%BB%A3%E7%A0%81%E6%A0%BC%E5%BC%8F%E7%BE%8E%E5%8C%96%E7%A5%9E%E5%99%A8.pdf)
 - [【03-19】《HTML5.2 新特性 - Dialog》](/201803/dialog.pdf)
 - [【03-19】《科普小程序组件》](/201803/plugin.pdf)
+- [【03-26】《Tiled Map Editor 地图编辑器》](/201803/瓦片地图编辑器.pdf)
+- [【03-26】《快应用》](/201803/快应用.pdf)
 
 ### 2017
 - [【01-03】《Equality of JS》](/201701/Equality_of_JS.pdf)
