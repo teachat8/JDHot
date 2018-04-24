@@ -17,6 +17,7 @@
 - [【04-03】《Live2D 体验》](/201804/live2d.pdf)
 - [【04-13】《小游戏关系链数据》](/201804/minigame-open-data.pdf)
 - [【04-24】《大哥，保险了解一下？》](/201804/大哥，保险了解一下？.pdf)
+- [【04-24】《Symbol》](/201804/Symbol.pdf)
 
 ### 2017
 - [【01-03】《Equality of JS》](/201701/Equality_of_JS.pdf)
