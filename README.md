@@ -18,6 +18,7 @@
 - [【04-13】《小游戏关系链数据》](/201804/minigame-open-data.pdf)
 - [【04-24】《大哥，保险了解一下？》](/201804/大哥，保险了解一下？.pdf)
 - [【04-24】《Symbol》](/201804/symbol.pdf)
+- [【04-24】《nerv+mobx分享》](/201804/nerv+mobx分享.pdf)
 
 ### 2017
 - [【01-03】《Equality of JS》](/201701/Equality_of_JS.pdf)
