@@ -19,6 +19,7 @@
 - [【04-24】《大哥，保险了解一下？》](/201804/大哥，保险了解一下？.pdf)
 - [【04-24】《Symbol》](/201804/symbol.pdf)
 - [【04-24】《nerv+mobx分享》](/201804/nerv+mobx分享.pdf)
+- [【05-09】《node-mysql上手指南》](/201805/node-mysql.pdf)
 
 ### 2017
 - [【01-03】《Equality of JS》](/201701/Equality_of_JS.pdf)
