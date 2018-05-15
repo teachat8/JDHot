@@ -20,7 +20,7 @@
 - [【04-24】《Symbol》](/201804/symbol.pdf)
 - [【04-24】《nerv+mobx分享》](/201804/nerv+mobx分享.pdf)
 - [【05-09】《node-mysql上手指南》](/201805/node-mysql.pdf)
-- [【05-14】《git那些事》](/201805/node-mysql.pdf)
+- [【05-14】《git那些事》](/201805/git 那些事.pdf)
 
 ### 2017
 - [【01-03】《Equality of JS》](/201701/Equality_of_JS.pdf)
